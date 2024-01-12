@@ -3,4 +3,4 @@
 数据集包含json与txt双格式标签，YOLO可直接通过yaml文件运行训练。
 
 The dataset images are divided into two categories: train and val. Each category consists of 3200 randomly selected images from the corresponding classes in the MS COCO 2017 dataset. 
-The dataset includes labels in both JSON and TXT labels, and YOLO can directly run training using a YAML file.
+The dataset includes labels in both JSON and TXT formats, and YOLO can directly run training using a YAML file.
